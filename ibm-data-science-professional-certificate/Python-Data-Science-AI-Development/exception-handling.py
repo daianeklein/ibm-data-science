@@ -14,8 +14,8 @@ finally:
 
 print('Keep going')
 
-
 ## example 02
+## using finally
 try:
     b = 'hey'
     #a = 1/0

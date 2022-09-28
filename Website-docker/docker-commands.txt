@@ -1,0 +1,17 @@
+-- starting
+docker start website
+
+-- localhost
+http://localhost:8081/
+
+-- docker stop website
+-- docker rm website
+-- docker ps -a
+
+--docker image
+docker pull nginx
+
+-- docker images
+
+
+-- creating a container
